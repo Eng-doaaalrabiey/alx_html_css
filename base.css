@@ -1,0 +1,18 @@
+body {
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    color: black;
+}
+
+header, footer {
+    background-color: blueviolet;
+    padding: auto;
+    text-align: center;
+
+}
+
+a {
+    background-color: brown;
+    text-decoration: none;
+}
